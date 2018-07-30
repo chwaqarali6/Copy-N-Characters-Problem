@@ -1,5 +1,5 @@
 # Copy-N-Characters-Problem
-**void StringCopyNCharacters(char String1[], char String2[], int i, int n)**
+**void StringCopyNCharacters(char String1[], char String2[], int i, int n)**<br/>
 
 Write a function which takes two strings, string1 and string2 a strat index “i” and total no of characters ‘n’ and starting from index “i”, it copies “n” characters of string1 in string2.<br/>
 
